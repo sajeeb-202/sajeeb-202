@@ -30,7 +30,6 @@ I am passionate about Machine Learning, Artificial Intelligence and Data Science
 
 ## Connect
 
-- GitHub: https://github.com/sajeeb-202
 - LinkedIn: https://www.linkedin.com/in/sajeeb-kumar
 - Portfolio: https://kumarsajeeb.wordpress.com/
 - Email: sajeebkumar202@gmail.com
