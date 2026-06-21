@@ -21,18 +21,12 @@ I am passionate about Machine Learning, Artificial Intelligence and Data Science
 - Scikit-Learn
 - Data Structures & Algorithms
 
-## Featured Repositories
+## Current Goals
 
-- BeeCrowd Python Solutions
-- HackerRank Python Solutions
-- LeetCode SQL 50 Solutions
-- Python Practice Projects
-
-## Goals
-
-- Build practical Machine Learning projects
-- Contribute to open-source projects
-- Pursue Machine Learning and AI research
+- Build end-to-end Machine Learning projects
+- Strengthen Data Structures and Algorithms skills
+- Develop practical experience with Scikit-Learn
+- Explore AI and Data Science applications
 
 ## Connect
 
